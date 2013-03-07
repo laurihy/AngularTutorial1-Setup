@@ -1,3 +1,8 @@
-backlift-angular-final
+AngularJS + Backlift tutorial, template A
 ======================
-https://angularfinal-ep2wx.backliftapp.com/wx6979zfr
+
+This template is part of tutorial, covering AngularJS and Backlift. 
+
+This one is just a skeleton, containing AngularJS-libraries.
+
+See live version: https://angularfirst-yzfnx.backliftapp.com/
