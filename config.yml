@@ -29,6 +29,7 @@ scripts:
 - /scripts/backlift-reloader.js
 - /lib/angular/angular.js
 - /lib/angular/angular-resource.js
+- /**/*.js
 
 
 # styles: These stylesheets will be packaged and linked in order, 
